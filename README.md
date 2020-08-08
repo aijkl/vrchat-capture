@@ -4,3 +4,4 @@
 ##### キャプチャーウィンドウを閉じるには画面を右クリック  
 ##### VRChatに戻るにはキャプチャーウィンドウをダブルクリック　　
 ##### レポートを送信するにはコントロールウィンドウをダブルクリック
+ダウンロードリンク　https://drive.google.com/file/d/1UFaTRzvGHJ-VF3OrJG0-YKt3qgYkFjEK/view?usp=sharing
