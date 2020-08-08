@@ -1,5 +1,6 @@
 # VRChatCapture 
-
+### ベータ版ダウンロード  
+https://drive.google.com/file/d/1UFaTRzvGHJ-VF3OrJG0-YKt3qgYkFjEK/view?usp=sharing
 ### VRChatをしながら作業するためのツールです。 
 ![スクリーンショット (497)](https://user-images.githubusercontent.com/51302983/89708481-a098dc80-d9b2-11ea-8829-d6cd3724f1e8.png)
 
