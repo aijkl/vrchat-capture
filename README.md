@@ -1,11 +1,12 @@
 # VRChatCapture 
+
+## バージョン1.8での変更点  
+バージョン確認作業を非同期で行う仕様にしました。
+
 ### ダウンロード  
 https://aijkl.booth.pm/items/2280480
 ### VRChatをしながら作業するためのツールです。 
 ![スクリーンショット (497)](https://user-images.githubusercontent.com/51302983/89708481-a098dc80-d9b2-11ea-8829-d6cd3724f1e8.png)  
-
-## バージョン1.8での変更点  
-バージョン確認作業を非同期で行う仕様にしました。
 
 # Usage
 ## VRChatに復帰するには  
